@@ -1,3 +1,8 @@
+server:
+  port: 8085
+logging:
+  level:
+    com.david: INFO
 person:
   id: 1
   name: 哈哈哈
@@ -8,4 +13,3 @@ person:
   pet:
     name: 旺财
     type: 狗子
-
