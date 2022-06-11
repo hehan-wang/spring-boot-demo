@@ -13,3 +13,10 @@ person:
   pet:
     name: 旺财
     type: 狗子
+
+spring:
+  profiles:
+    active: @profiles.active@
+#spring:
+#  profiles:
+#    - ${profiles.active}
