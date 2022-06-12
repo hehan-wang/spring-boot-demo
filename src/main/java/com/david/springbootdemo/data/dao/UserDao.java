@@ -1,4 +1,4 @@
-package com.david.springbootdemo.dao;
+package com.david.springbootdemo.data.dao;
 
 import com.david.springbootdemo.data.entity.User;
 import org.apache.ibatis.annotations.Mapper;
